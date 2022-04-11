@@ -29,7 +29,7 @@ Press Enter to open github.com in your browser...
 ### step 3 : Run transfer issue shell script
 
 ```
-https://github.com/rishabh625/utilityscripts.git
+gh repo clone rishabh625/utilityscripts
 cd transferghissue
 ```
 
