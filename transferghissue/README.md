@@ -29,5 +29,10 @@ Press Enter to open github.com in your browser...
 ### step 3 : Run transfer issue shell script
 
 ```
+https://github.com/rishabh625/utilityscripts.git
+cd transferghissue
+```
+
+```
 sh transfer-issue.sh
 ```
